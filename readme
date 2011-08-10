@@ -1,0 +1,5 @@
+I got a lot of frameworks on O/R mapping. Most of these are happened in run-time.
+This project is aimed to do O/R mapping in compile time. All O/R codes are replaced
+with fine-tunned "native" codes.
+
+In process..
