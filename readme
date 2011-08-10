@@ -1,5 +1,10 @@
 I got a lot of frameworks on O/R mapping. Most of these are happened in run-time.
-This project is aimed to do O/R mapping in compile time. All O/R codes are replaced
-with fine-tunned "native" codes.
+This project is aimed to do O/R mapping in compile time, and all O/R codes are replaced
+with fine-tuned "native" codes.
 
 In process..
+
+1. Scala to MySQL will be the scratch environment. It will provides following features:
+a. the grammar will stick to native SQL as much as possible, like LINQ
+b. type-safe
+c. easy to support other database
