@@ -8,3 +8,22 @@ In process..
 a. the grammar will stick to native SQL as much as possible, like LINQ
 b. type-safe
 c. easy to support other database
+
+
+－－－－－－－－－－－－－－ words above are no-long in mind ----------------- 
+
+Rule 0:
+  We like anorm.
+  
+Rule 1:
+  Generate entities case class, json formats, anorm parsers based on mysql tables, views, strore procedures.
+  
+Rule 2:
+  Simeple APIs like:
+  Object.save()
+  Object.save("xx" -> any)
+  Updatable.load[User](id)
+  
+Rule 3:
+  You think SQL is complicate and tend to find an ORM, I would think you thinking is too complex and naive :-)
+  
