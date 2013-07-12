@@ -25,5 +25,5 @@ Rule 2:
   Updatable.load[User](id)
   
 Rule 3:
-  You think SQL is complicate and tend to find an ORM, I would think you thinking is too complex and naive :-)
+  You think SQL is complicate and tend to find an ORM, I would think your thinking is too complex and naive :-)
   
