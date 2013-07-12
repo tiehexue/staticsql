@@ -19,11 +19,14 @@ Rule 1:
   Generate entities case class, json formats, anorm parsers based on mysql tables, views, strore procedures.
   
 Rule 2:
-  Simeple APIs like:
+  Simple APIs like:
   Object.save()
   Object.save("xx" -> any)
   Updatable.load[User](id)
   
 Rule 3:
   You think SQL is complicate and tend to find an ORM, I would think your thinking is too complex and naive :-)
+  
+Rule 4:
+  Try it yourself.
   
